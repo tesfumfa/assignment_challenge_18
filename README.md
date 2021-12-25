@@ -1,7 +1,7 @@
 # assignment_challenge_18
 <h1>Table of Contents:</h1>
 <ul>
-<li> User Story</li>
+  <li> User Story </li>
 <li>Acceptance Criteria</li>
 <li>Description</li>
 <li>Walkthrough Videos</li>
