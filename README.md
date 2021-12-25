@@ -82,7 +82,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <p>/api/thoughts/:thoughtId/reactions/:reactionId</p>
 <ul><li>DELETE remove a reaction by the reactionId</li></ul>
 <h2>Submission:</h2>
-<a href="">Github repository</a>
+<a href="https://github.com/tesfumfa/assignment_challenge_18">Github repository</a>
 
 
 
