@@ -26,7 +26,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <p>This is a set of API for a social network that uses a MongoDB database so that the website can handle large amounts of unstructured data, Express.js for routing, Mongoose ODM, and the moment package to format time stamps.</p>
 <h2>Mock-Up</h2>
 <ul>
-  <li><a href=""> User Routes</a></li>
+  <li><a href="https://youtu.be/unrdAF_7Z6Q"> User Routes</a></li>
   <li><a href=""> Thought Routes</a></li>
   <li><a href=""> Friend Routes</a></li>
   <li><a href=""> Reaction Routes</a></li>
