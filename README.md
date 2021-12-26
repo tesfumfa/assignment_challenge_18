@@ -27,7 +27,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <h2>Mock-Up</h2>
 <ul>
   <li><a href="https://youtu.be/unrdAF_7Z6Q"> User Routes</a></li>
-  <li><a href=""> Thought Routes</a></li>
+  <li><a href="https://youtu.be/QWdppDSmyII"> Thought Routes</a></li>
   <li><a href=""> Friend Routes</a></li>
   <li><a href=""> Reaction Routes</a></li>
   <li><a href="https://youtu.be/5efi7Sq9iQU"> Walkthrough Videos All in One:</a>&nbsp;https://youtu.be/5efi7Sq9iQU</li> 
