@@ -26,11 +26,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <p>This is a set of API for a social network that uses a MongoDB database so that the website can handle large amounts of unstructured data, Express.js for routing, Mongoose ODM, and the moment package to format time stamps.</p>
 <h2>Mock-Up</h2>
 <ul>
-  <li><a href="https://youtu.be/unrdAF_7Z6Q"> User Routes</a></li>
-  <li><a href="https://youtu.be/QWdppDSmyII"> Thought Routes</a></li>
-  <li><a href="https://youtu.be/YIT9BN9-JXo"> Friend Routes</a></li>
-  <li><a href="https://youtu.be/XZXYCJ9Kl3U"> Reaction Routes</a></li>
-  <li><a href="https://youtu.be/5efi7Sq9iQU"> Walkthrough Videos All in One:</a>&nbsp;https://youtu.be/5efi7Sq9iQU</li> 
+
+  <li><a href="https://youtu.be/5efi7Sq9iQU"> Walkthrough Video:</a></li> 
 </ul>
 <h2>API Tests</h2>
 <h3>Testing restful API calls with Insomnia Core and Rest client</h3>
